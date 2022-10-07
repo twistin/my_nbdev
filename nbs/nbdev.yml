@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_cards"
+  site-url: "https://twistin.github.io/my_nbdev"
+  description: "Un ejercicio para creación de un repositorio nbdev, creando una aplicación de un juego de cartas de la explicación de Jeremy Howard"
+  repo-branch: main
+  repo-url: "https://github.com/twistin/my_nbdev"
